@@ -1,6 +1,6 @@
-# RelapsePreventionPlan
+# Relapse Prevention Plan
 
-Outline for a relapse prevention plan for those of us who have the disease of addiction.
+Outline for a relapse prevention plan for those of us who have the disease of addiction.  Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).
 
 **[Chapter 3 - More about Alcoholism]**
 
@@ -54,4 +54,6 @@ Outline for a relapse prevention plan for those of us who have the disease of ad
 
 - Sunday - Rest your spirit aka self-love
 
-I hope this helps you or a friend in recovery. Please pass it on to others who are interested.
+I hope this helps you or a friend in recovery. Please pass it on to others who are interested; being nice is nice.
+
+When all else fails, eight hugs a day is all the love a person needs.
