@@ -1,6 +1,6 @@
 # Relapse Prevention Plan
 
-Outline for a relapse prevention plan for those of us who have the disease of addiction.  Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).
+Outline for a relapse prevention plan for those of us who have the disease of addiction. Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).
 
 **[Chapter 3 - More about Alcoholism]**
 
@@ -46,14 +46,17 @@ Outline for a relapse prevention plan for those of us who have the disease of ad
 - Monday - Cardio/Yoga
 - Tuesday - Cardio/Biceps/Chest
 - Wednesday - Cardio - Triceps/Shoulders
-- Thursday - Cardio/Yoga  
+- Thursday - Cardio/Yoga
 
-- Friday - Cardio/Biceps/Chest  
+- Friday - Cardio/Biceps/Chest
 
-- Saturday - Cardio - Triceps/Shoulders  
+- Saturday - Cardio - Triceps/Shoulders
 
 - Sunday - Rest your spirit aka self-love
 
 I hope this helps you or a friend in recovery. Please pass it on to others who are interested; being nice is nice.
 
 When all else fails, eight hugs a day is all the love a person needs.
+
+**Beach House Alumni Discord**
+https://discord.gg/wRRNZwWaGY
