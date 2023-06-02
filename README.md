@@ -23,40 +23,27 @@ Outline for a relapse prevention plan for those of us who have the disease of ad
 9.  I will seek out friendships with others in recovery including my home group, sponsor recommendations, to create a group for my own accountability, where I am honest in my communications and build healthy friendships.
 10. Have associations with Rehabilitation facilities and similar recovery institutions.
 
-**Daily Routine**
+**References**
+* [Daily Huddle][1]
+* [AA Books][2]
+* [NA Books][3]
+* [Celebrate Revovery][4]
+* Smart Recovery
 
-- _Wake Up_ [**Physical**] (Root Chakra) - Exercise
-- [**Spiritual**] - Meditate
+**Service**
 
-- Serenity Prayer
-- 12 Step Prayers
-- Our Father / Rosary
-- Look at Stars
-- Walk barefoot on the earth (Grounding)
-- Listen to Nature/Ocean
-
-- [**Connection**] - Talk to peers in recovery
-
-- Text - I love you and a virtual hug to another alcoholic/addict - 15 times
-- Talk on the phone to an Alcoholic/Addict
-- Attend a meeting
-
-**Weekly Exercise Routine**
-
-- Monday - Cardio/Yoga
-- Tuesday - Cardio/Biceps/Chest
-- Wednesday - Cardio - Triceps/Shoulders
-- Thursday - Cardio/Yoga
-
-- Friday - Cardio/Biceps/Chest
-
-- Saturday - Cardio - Triceps/Shoulders
-
-- Sunday - Rest your spirit aka self-love
 
 I hope this helps you or a friend in recovery. Please pass it on to others who are interested; being nice is nice.
 
 When all else fails, eight hugs a day is all the love a person needs.
 
 **Beach House Alumni Discord**
-https://discord.gg/wRRNZwWaGY
+
+![Discord Banner 3](https://discordapp.com/api/guilds/wRRNZwWaGY/widget.png?style=banner3)
+
+Ref: https://discord.gg/wRRNZwWaGY
+
+  [1]: https://github.com/ibuilder/rpp/tree/main/daily/
+  [2]: https://github.com/ibuilder/rpp/tree/main/aa
+  [3]: https://github.com/ibuilder/rpp/tree/main/na
+  [4]: https://github.com/ibuilder/rpp/tree/main/celebrate_recovery
