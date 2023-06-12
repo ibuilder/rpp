@@ -41,12 +41,10 @@ Several resources were pulled from different organizations to compile this RPP o
 
 **Beach House Alumni Discord**
 
-![Discord Banner 3](https://discordapp.com/api/guilds/UmCtXf7P/widget.png?style=banner3)
-
 ![Discord Banner 2](https://discordapp.com/api/guilds/1108506157301125231/widget.png?style=banner2)
 
 
-Invite Link: https://discord.gg/UmCtXf7P
+URL to Join Channel: https://discord.gg/UmCtXf7P
 
 
   [1]: https://github.com/ibuilder/rpp/tree/main/daily/
