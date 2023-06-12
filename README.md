@@ -2,7 +2,7 @@
 
 Outline for a relapse prevention plan for those of us who have the disease of addiction. Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).
 
-**[Chapter 3 - More about Alcoholism]**
+**[BIG BOOK - Chapter 3 - More about Alcoholism]**
 
 **Cardinal Rules**
 
