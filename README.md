@@ -31,18 +31,20 @@ Outline for a relapse prevention plan for those of us who have the disease of ad
 * Smart Recovery
 * [Psych Resources][5]
 
-**Service**
-
+**Service and Source Citation**
 
 I hope this helps you or a friend in recovery. Please pass it on to others who are interested; being nice is nice.
 
 When all else fails, eight hugs a day is all the love a person needs.
+
+Several resources were pulled from different organizations to compile this RPP outline.  Thank you to those persons who have helped compile the outline package.  Much gratitude is given to the Beach House Center for Recovery, Alcoholics Anonymous, and Therapy website which provided several of the PDF backup.
 
 **Beach House Alumni Discord**
 
 ![Discord Banner 3](https://discordapp.com/api/guilds/wRRNZwWaGY/widget.png?style=banner3)
 
 Ref: https://discord.gg/wRRNZwWaGY
+
 
   [1]: https://github.com/ibuilder/rpp/tree/main/daily/
   [2]: https://github.com/ibuilder/rpp/tree/main/aa
