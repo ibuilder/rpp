@@ -1,8 +1,12 @@
 # Relapse Prevention Plan
 
+Outline for a relapse prevention plan for those of us who have the disease of addiction. Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).  Not sure if you need help?  Take a self assessment:  **<a href="# Relapse Prevention Plan" target="_blank">Click Here</a>**
+(Note: if alcohol is not your substance of choice, replace alcohol on the assessment with your substance of choice).  **Ref**: https://www.aa.org/self-assessment
+
 Outline for a relapse prevention plan for those of us who have the disease of addiction. Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).
 
-**[BIG BOOK - Chapter 3 - More about Alcoholism]**
+
+***[BIG BOOK - Chapter 3 - More about Alcoholism]***
 
 **Cardinal Rules**
 
@@ -39,12 +43,12 @@ When all else fails, eight hugs a day is all the love a person needs.
 
 Several resources were pulled from different organizations to compile this RPP outline.  Thank you to those persons who have helped compile the outline package.  Much gratitude is given to the Beach House Center for Recovery, Alcoholics Anonymous, and Therapy website which provided several of the PDF backup.
 
-**Beach House Alumni Discord**
+***Beach House Alumni Discord***
 
 ![Discord Banner 2](https://discordapp.com/api/guilds/1108506157301125231/widget.png?style=banner2)
 
 
-URL to Join Channel: https://discord.gg/UmCtXf7P
+**Join Discord Channel Chat**: https://discord.gg/UmCtXf7P
 
 
   [1]: https://github.com/ibuilder/rpp/tree/main/daily/
