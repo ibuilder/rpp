@@ -1,10 +1,8 @@
 # Relapse Prevention Plan
 
 Outline for a relapse prevention plan for those of us who have the disease of addiction. Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).  Not sure if you need help?  Take a self assessment:  **<a href="# Relapse Prevention Plan" target="_blank">Click Here</a>**
-(Note: if alcohol is not your substance of choice, replace alcohol on the assessment with your substance of choice).  **Ref**: https://www.aa.org/self-assessment
 
-Outline for a relapse prevention plan for those of us who have the disease of addiction. Please feel free to use this as a template for your own relapse prevention plan (contribute or fork).
-
+*(**Note**: if alcohol is not your substance of choice, replace alcohol on the assessment with your substance of choice).*  ***Ref**: https://www.aa.org/self-assessment*
 
 ***[BIG BOOK - Chapter 3 - More about Alcoholism]***
 
