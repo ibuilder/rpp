@@ -1,5 +1,5 @@
 # **Sunrise Meeting Agenda**
-*Start*
+
 - Introduction
 - Group Explanation of Agenda
 - Serenity Prayer
@@ -19,7 +19,6 @@
 * As Bill Sees It (Random reading)
 * Keep a Positive Attitude
 
-(*End*) 
 * Our Father 
 
 ***Note**: any daily reflection book that acknowledges a higher power is an acceptable substitute for any of the above*
