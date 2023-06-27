@@ -30,7 +30,7 @@ Outline for a relapse prevention plan for those of us who have the disease of ad
 * [AA Books][2]
 * [NA Books][3]
 * [Celebrate Revovery][4]
-* Smart Recovery
+* [Smart Recovery][6]
 * [Psych Resources][5]
 
 **Service and Source Citation**
@@ -48,9 +48,9 @@ Several resources were pulled from different organizations to compile this RPP o
 
 **Join Discord Channel Chat**: https://discord.gg/UmCtXf7P
 
-
   [1]: https://github.com/ibuilder/rpp/tree/main/daily/
   [2]: https://github.com/ibuilder/rpp/tree/main/aa
   [3]: https://github.com/ibuilder/rpp/tree/main/na
   [4]: https://github.com/ibuilder/rpp/tree/main/celebrate_recovery
   [5]: https://github.com/ibuilder/rpp/tree/main/psych/
+  [6]: https://github.com/ibuilder/rpp/tree/main/smart_recovery
